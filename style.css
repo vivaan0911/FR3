@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background: rgb(0,255,191);
+    background: linear-gradient(90deg, rgba(0,255,191,1) 9%, rgba(77,134,196,1) 40%, rgba(140,0,255,1) 71%, rgba(255,0,233,1) 89%);
+}
+
+#h{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: deeppink;
+
+}
+
+#heading {
+    background-color: deepskyblue;
+    border: blue 5px dashed;
+}
+
+#capture_button {
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: tomato;
+    color: white;
+}
+
+#identify_button {
+    font-size: 20px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: white;
+    color: tomato;
+}
+
+#write{
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    color: yellow;
+}
+
+.output{
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    color:palegreen;
+}
+
+#wv_write{
+    font-size: 25px;
+    font-family: 'Permanent Marker', cursive;
+    color: yellow;
+}
+
+.items{
+    font-size: 25px;
+    font-family: 'Acme', serif;
+    color: navajowhite;
+}
